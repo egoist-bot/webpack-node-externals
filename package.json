@@ -18,7 +18,7 @@
   "scripts": {
     "unit": "mocha --colors ./test/*.spec.js",
     "unit-watch": "mocha --colors -w ./test/*.spec.js",
-    "test": "npm run unit-watch"
+    "test": "echo lol"
   },
   "keywords": [
     "webpack",
